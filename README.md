@@ -2,7 +2,7 @@
 
 [![daiyd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daiyadong&show_icons=true&&them=radical)](https://github.com/daiyadong)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daiyadong)](https://github.com/daiyadong/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daiyadong)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
