@@ -29,16 +29,17 @@ Here are some ideas to get you started:
 - [HackerRemote](https://itunes.apple.com/cn/app/id1120243546): BLE remote
 - [AirTerminal](https://itunes.apple.com/cn/app/id1296588408): BLE terminal & XMODEM file transfer utility
 
-#### Awesome Lists
-
-- [awesome-technical-diy-cn](https://github.com/blanboom/awesome-technical-diy-cn): DIY Projects/Tools/Books for Makers
-- [awesome-home-networking-cn](https://github.com/blanboom/awesome-home-networking-cn): Home networking guide
-
 #### More
 
 - [我的作品 | Projects – Blanboom](https://blanboom.org/projects/)
 - [My GitHub Repositories](https://github.com/blanboom?tab=repositories)
 -->
+
+#### Awesome Lists
+
+- [awesome-technical-diy-cn](https://github.com/blanboom/awesome-technical-diy-cn): DIY Projects/Tools/Books for Makers
+- [awesome-home-networking-cn](https://github.com/blanboom/awesome-home-networking-cn): Home networking guide
+
 
 </td><td valign="top">
 
