@@ -43,15 +43,15 @@ Here are some ideas to get you started:
 
 ### On my blog
 <!-- blog starts -->
-* [Titan Security Key 使用体验](https://blanboom.org/2020/titan/) - 2020-07-21
-* [《信息素养通识教程》学习笔记](https://blanboom.org/2020/information-literacy-mooc/) - 2020-06-20
-* [命令行、Vim、版本控制&#8230;&#8230; 这个课程教你使用强大的工具](https://blanboom.org/2020/missing-semester/) - 2020-06-20
-* [从 Evernote 到 Notion&#8230;&#8230; 我的笔记软件使用经历](https://blanboom.org/2020/evernote-to-notion/) - 2020-06-20
-* [将个人收藏的科技 DIY 资料整理到了 GitHub 上](https://blanboom.org/2020/awesome-technical-diy/) - 2020-03-22
-* [如何更好地清理 Time Machine 备份](https://blanboom.org/2020/timemachine-cleanup/) - 2020-03-07
-* [这个假期，我创建了一个关于家庭网络的 Awesome List](https://blanboom.org/2020/awesome-home-networking-cn/) - 2020-03-03
-* [UniFi Dream Machine 使用体验（4）：问题与不足](https://blanboom.org/2020/udm-4/) - 2020-01-12
-* [UniFi Dream Machine 使用体验（3）：系统探索](https://blanboom.org/2020/udm-3/) - 2020-01-12
+* [OpenResty测试框架使用](http://daiyadong.github.io/2020/11/12/OpenResty%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6%E4%BD%BF%E7%94%A8/) - 
+* [ntopng docker镜像使用](http://daiyadong.github.io/2020/11/11/ntopng-docker%E9%95%9C%E5%83%8F%E4%BD%BF%E7%94%A8/) - Wed, 11 Nov 2020 00:00:00 +0000
+* [webgoat 与 dvwa docker镜像使用](http://daiyadong.github.io/2020/11/10/webgoat-docker%E9%95%9C%E5%83%8F%E4%BD%BF%E7%94%A8/) - 
+* [Nginx的信号控制](http://daiyadong.github.io/2020/09/09/Nginx%E7%9A%84%E4%BF%A1%E5%8F%B7%E6%8E%A7%E5%88%B6/) - Wed, 09 Sep 2020 00:00:00 +0000
+* [curl命令详解](http://daiyadong.github.io/2020/09/02/curl%E5%91%BD%E4%BB%A4%E8%AF%A6%E8%A7%A3/) - Wed, 02 Sep 2020 00:00:00 +0000
+* [luacheck and lj-releng](http://daiyadong.github.io/2020/08/25/luacheck%E5%92%8Clj-releng/) - 
+* [庙街](http://daiyadong.github.io/2019/12/27/%E5%BA%99%E8%A1%97%E6%97%A7%E7%85%A7/) - Fri, 27 Dec 2019 00:00:00 +0000
+* [使用gtk库时需要注意的地方](http://daiyadong.github.io/2019/11/06/%E4%BD%BF%E7%94%A8gtk%E5%BA%93%E6%97%B6%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%E7%9A%84%E5%9C%B0%E6%96%B9/) - Wed, 06 Nov 2019 00:00:00 +0000
+* [winhex修复vmware-vmdk文件](http://daiyadong.github.io/2019/11/06/winhex%E4%BF%AE%E5%A4%8Dvmware-vmdk%E6%96%87%E4%BB%B6/) - Wed, 06 Nov 2019 00:00:00 +0000
 <!-- blog ends -->
 More on [netsecai.com](https://netsecai.com/)
 
