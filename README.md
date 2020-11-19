@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 * [庙街](https://netsecai.com/2019/12/27/%E5%BA%99%E8%A1%97%E6%97%A7%E7%85%A7/) - 2019-12-27
 * [使用gtk库时需要注意的地方](https://netsecai.com/2019/11/06/%E4%BD%BF%E7%94%A8gtk%E5%BA%93%E6%97%B6%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%E7%9A%84%E5%9C%B0%E6%96%B9/) - 2019-11-06
 * [winhex修复vmware-vmdk文件](https://netsecai.com/2019/11/06/winhex%E4%BF%AE%E5%A4%8Dvmware-vmdk%E6%96%87%E4%BB%B6/) - 2019-11-06
+* [APK审计与加固相关记录](https://netsecai.com/2019/11/06/APK%E5%AE%A1%E8%AE%A1%E4%B8%8E%E5%8A%A0%E5%9B%BA%E7%9B%B8%E5%85%B3%E8%AE%B0%E5%BD%95/) - 2019-11-06
 <!-- blog ends -->
 More on [netsecai.com](https://netsecai.com/)
 
