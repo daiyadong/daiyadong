@@ -32,7 +32,7 @@ def fetch_blog_entries():
 if __name__ == "__main__":
     readme = root / "README.md"
 
-    entries = fetch_blog_entries()[:9]
+    entries = fetch_blog_entries()[:10]
     entries_md = "\n".join(
         ["* [{title}]({url}) - {published}".format(**entry) for entry in entries]
     )
