@@ -46,16 +46,16 @@ Here are some ideas to get you started:
 
 ### On my blog
 <!-- blog starts -->
-* [nc使用](https://netsecai.com/2020/11/23/nc%E4%BD%BF%E7%94%A8/) - 2020-11-23
-* [kubernetes官网教程](https://netsecai.com/2020/11/23/kubernetes%E5%AE%98%E7%BD%91%E6%95%99%E7%A8%8B/) - 2020-11-23
-* [Kali使用](https://netsecai.com/2020/11/23/Kali%E4%BD%BF%E7%94%A8/) - 2020-11-23
-* [OpenResty测试框架使用](https://netsecai.com/2020/11/12/OpenResty%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6%E4%BD%BF%E7%94%A8-copy/) - 2020-11-12
-* [ntopng docker镜像使用](https://netsecai.com/2020/11/11/ntopng-docker%E9%95%9C%E5%83%8F%E4%BD%BF%E7%94%A8/) - 2020-11-11
-* [webgoat 与 dvwa docker镜像使用](https://netsecai.com/2020/11/10/webgoat-docker%E9%95%9C%E5%83%8F%E4%BD%BF%E7%94%A8/) - 2020-11-10
-* [Nginx的信号控制](https://netsecai.com/2020/09/09/Nginx%E7%9A%84%E4%BF%A1%E5%8F%B7%E6%8E%A7%E5%88%B6/) - 2020-09-09
-* [curl命令详解](https://netsecai.com/2020/09/02/curl%E5%91%BD%E4%BB%A4%E8%AF%A6%E8%A7%A3/) - 2020-09-02
-* [luacheck and lj-releng](https://netsecai.com/2020/08/25/luacheck%E5%92%8Clj-releng/) - 2020-08-25
-* [庙街](https://netsecai.com/2019/12/27/%E5%BA%99%E8%A1%97%E6%97%A7%E7%85%A7/) - 2019-12-27
+* [nc使用](https://netsecstudio.xyz/2020/11/23/nc%E4%BD%BF%E7%94%A8/) - 2020-11-23
+* [kubernetes官网教程](https://netsecstudio.xyz/2020/11/23/kubernetes%E5%AE%98%E7%BD%91%E6%95%99%E7%A8%8B/) - 2020-11-23
+* [Kali使用](https://netsecstudio.xyz/2020/11/23/Kali%E4%BD%BF%E7%94%A8/) - 2020-11-23
+* [OpenResty测试框架使用](https://netsecstudio.xyz/2020/11/12/OpenResty%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6%E4%BD%BF%E7%94%A8-copy/) - 2020-11-12
+* [ntopng docker镜像使用](https://netsecstudio.xyz/2020/11/11/ntopng-docker%E9%95%9C%E5%83%8F%E4%BD%BF%E7%94%A8/) - 2020-11-11
+* [webgoat 与 dvwa docker镜像使用](https://netsecstudio.xyz/2020/11/10/webgoat-docker%E9%95%9C%E5%83%8F%E4%BD%BF%E7%94%A8/) - 2020-11-10
+* [Nginx的信号控制](https://netsecstudio.xyz/2020/09/09/Nginx%E7%9A%84%E4%BF%A1%E5%8F%B7%E6%8E%A7%E5%88%B6/) - 2020-09-09
+* [curl命令详解](https://netsecstudio.xyz/2020/09/02/curl%E5%91%BD%E4%BB%A4%E8%AF%A6%E8%A7%A3/) - 2020-09-02
+* [luacheck and lj-releng](https://netsecstudio.xyz/2020/08/25/luacheck%E5%92%8Clj-releng/) - 2020-08-25
+* [庙街](https://netsecstudio.xyz/2019/12/27/%E5%BA%99%E8%A1%97%E6%97%A7%E7%85%A7/) - 2019-12-27
 <!-- blog ends -->
 More on [netsecai.com](https://netsecai.com/)
 
